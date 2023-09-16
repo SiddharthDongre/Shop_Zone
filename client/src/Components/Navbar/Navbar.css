@@ -1,0 +1,36 @@
+#navbar {
+  background-color: green;
+  box-shadow: 0px 5px 15px 0px #888888;
+  margin-bottom: 10px;
+  position: sticky;
+  top: 0px;
+}
+
+/* navbar 1 */
+/* navbar 1 > ul */
+
+.navbar-1-ul {
+  width: 50%;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.navbar-1-ul li {
+  padding: 10px;
+  list-style-type: none;
+}
+
+.navbar-1-ul li a {
+  color: white;
+  padding: 10px;
+  font-size: 26px;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.navbar-1-ul li a:hover {
+  color: green;
+  background-color: whitesmoke;
+}

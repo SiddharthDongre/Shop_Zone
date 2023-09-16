@@ -1,0 +1,36 @@
+#home-12 {
+  height: 200px;
+  width: 97%;
+  border: 1px solid black;
+  margin: 10px auto;
+  background-color: lightseagreen;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#pre {
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-size: 100px;
+  cursor: pointer;
+}
+
+.rollers {
+  border: 1px solid black;
+  font-size: 100px;
+  text-align: center;
+  background-color: lightcoral;
+  color: white;
+  padding: 10px 40px;
+}
+
+#next {
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-size: 100px;
+  cursor: pointer;
+}

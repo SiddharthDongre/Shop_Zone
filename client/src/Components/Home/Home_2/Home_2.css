@@ -1,0 +1,32 @@
+#home-2 {
+  height: 325px;
+  width: 97%;
+  /* border: 1px solid black; */
+  margin: 10px auto;
+  background-color: white;
+}
+
+.h2-head {
+  font-size: 30px;
+  padding: 20px 0px 15px 75px;
+  cursor: pointer;
+}
+
+.h2-div {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.h2-div-all img {
+  cursor: pointer;
+}
+
+.h2-div-all h2 {
+  padding: 10px 0px;
+  text-align: center;
+  cursor: pointer;
+}
+

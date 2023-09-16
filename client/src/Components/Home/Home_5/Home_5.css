@@ -1,0 +1,11 @@
+#home-5 {
+  height: 300px;
+  width: 97%;
+  /* border: 1px solid black; */
+  margin: 10px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 20px;
+}
+

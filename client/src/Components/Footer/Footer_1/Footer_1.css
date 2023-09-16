@@ -1,0 +1,13 @@
+#back-to-top {
+  background-color: #203447;
+}
+
+.btt-head {
+  text-align: center;
+  padding: 17px;
+}
+
+.btt-head a {
+  color: white;
+  text-decoration: none;
+}

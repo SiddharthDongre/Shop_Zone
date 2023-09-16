@@ -1,0 +1,44 @@
+#home-6 {
+  height: 325px;
+  width: 97%;
+  /* border: 1px solid black; */
+  margin: 10px auto;
+  background-color: white;
+}
+
+.h6-head {
+  font-size: 30px;
+  padding: 20px 0px 15px 75px;
+  cursor: pointer;
+}
+
+#h6-div {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.h6-prev {
+  font-size: 75px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.h6-div-all img {
+  cursor: pointer;
+}
+
+.h6-div-all h2 {
+  padding: 10px 0px;
+  text-align: center;
+  cursor: pointer;
+}
+
+#h6-next {
+  font-size: 75px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
